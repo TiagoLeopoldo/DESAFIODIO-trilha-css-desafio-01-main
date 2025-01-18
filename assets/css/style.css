@@ -32,8 +32,8 @@ padding-top: 56px;
   text-transform: uppercase;
   color: transparent;
   background: -webkit-linear-gradient(#33A8DB, #1472B7);
-  -webkit-background-clip: text;
   background-clip: text;
+  -webkit-background-clip: text;
 }
 .banner .p {
   font-size: 1.25rem;
